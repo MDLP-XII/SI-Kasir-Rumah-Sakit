@@ -1,3 +1,8 @@
+# Kelompok 1:
+  Novian Yuda Permana (5200411317) 
+  Khafid Nur Maulana (5200411491) 
+  Rizky Diar Panuntun (5200411499) 
+  Alfaeni Syafa Safira (5200411511)
 # SI-Kasir-Rumah-Sakit
 # SRS Kasir Rumah Sakit
 1. 5200411491 Khafid Nur Maulana : 2.5 Karakteristik User, 2.6 Batasan-batasan, 2.7 Asumsi dan Ketergantungan
