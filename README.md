@@ -13,4 +13,6 @@
 1. 5200411491 Khafid Nur Maulana : 3.5 Data flow diagram (Model Data)
 # Query SQL
 1. 5200411491 Khafid Nur Maulana : DML (Data Manipulation Language)
-
+2. 5200411499 Rizky Diar Panuntun : DDL(Data Definition Language)
+3. 5200411511 Alfaeni Syafa Safira : Transaction Control Language (TCL)
+4. 5200411317 NOVIAN YUDA PERMANA : DCL (Data Control Language)
