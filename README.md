@@ -24,3 +24,9 @@
 2. 5200411499 Rizky Diar Panuntun : Arsitektur Sistem, Input
 3. 5200411511 Alfaeni Syafa Safira : Output, User Interface
 4. 5200411317 NOVIAN YUDA PERMANA : Desain Arsitektur Sistem
+# RAD Jasa Pengiriman
+1. 5200411491 Khafid Nur Maulana : Use Case Diagram, Activity Diagram, Sequence Diagram
+2. 5200411499 Rizky Diar Panuntun : Daftar isi, Arsitektur sistem, Class diagram
+3. 5200411511 Alfaeni Syafa Safira : Pembentukan Aplikasi
+4. 5200411317 NOVIAN YUDA PERMANA : Judul, Pendahuluan
+Pemodelan Bisnis (Dikerjakan Bersama Minggu Lalu)
