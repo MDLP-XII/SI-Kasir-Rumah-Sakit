@@ -29,4 +29,4 @@
 2. 5200411499 Rizky Diar Panuntun : Daftar isi, Arsitektur sistem, Class diagram
 3. 5200411511 Alfaeni Syafa Safira : Pembentukan Aplikasi
 4. 5200411317 NOVIAN YUDA PERMANA : Judul, Pendahuluan
-Pemodelan Bisnis (Dikerjakan Bersama Minggu Lalu)
+5. Pemodelan Bisnis (Dikerjakan Bersama Minggu Lalu)
