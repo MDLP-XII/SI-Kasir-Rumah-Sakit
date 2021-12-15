@@ -30,3 +30,8 @@
 3. 5200411511 Alfaeni Syafa Safira : Pembentukan Aplikasi
 4. 5200411317 NOVIAN YUDA PERMANA : Judul, Pendahuluan
 5. Pemodelan Bisnis (Dikerjakan Bersama Minggu Lalu)
+# Laporan SCRUM Jasa Pengiriman
+1. 5200411491 Khafid Nur Maulana : User Stories
+2. 5200411499 Rizky Diar Panuntun : Product Backlog
+3. 5200411511 Alfaeni Syafa Safira : Delivery Product
+4. 5200411317 NOVIAN YUDA PERMANA : Sprint
