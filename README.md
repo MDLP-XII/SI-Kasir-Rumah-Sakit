@@ -35,3 +35,8 @@
 2. 5200411499 Rizky Diar Panuntun : Product Backlog
 3. 5200411511 Alfaeni Syafa Safira : Delivery Product
 4. 5200411317 NOVIAN YUDA PERMANA : Sprint
+# Makalah Agile(Continuous Integration (CI))
+1. 5200411491 Khafid Nur Maulana : BAB II Pembahasan
+2. 5200411499 Rizky Diar Panuntun : BAB I Pendahuluan
+3. 5200411511 Alfaeni Syafa Safira : BAB III Contoh Metode (Review Jurnal), BAB IV Penutup
+4. 5200411317 NOVIAN YUDA PERMANA : PowerPoint Presentasi
