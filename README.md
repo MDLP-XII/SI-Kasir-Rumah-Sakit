@@ -44,4 +44,4 @@
 1. 5200411491 Khafid Nur Maulana : Bab III penggunaan tools DevOps (review 1 jurnal)
 2. 5200411499 Rizky Diar Panuntun : BAB II Pembahasan
 3. 5200411511 Alfaeni Syafa Safira : BAB I Pendahuluan (latar belakang, rumusan maslah, tujuan)
-4. 5200411317 NOVIAN YUDA PERMANA : BAB IV Penutup
+4. 5200411317 NOVIAN YUDA PERMANA : BAB IV Penutup (perbandinan mengunakan metode waterfall, prototype, dan RAD)
