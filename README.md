@@ -13,7 +13,7 @@
 1. 5200411491 Khafid Nur Maulana : Model Data (DFD)
 2. 5200411499 Rizky Diar Panuntun : Model Data (Relasi Antar Tabel)
 3. 5200411511 Alfaeni Syafa Safira : Kebutuhan Fungsional, Kebutuhan Interface, Lingkungan Operasi
-4. 5200411317 Novian Yuda Permana : Batas Perancangan
+4. 5200411317 Novian Yuda Permana : Batas Perancangan sistem
 # Query SQL
 1. 5200411491 Khafid Nur Maulana : DML (Data Manipulation Language)
 2. 5200411499 Rizky Diar Panuntun : DDL(Data Definition Language)
